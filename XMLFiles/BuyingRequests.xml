@@ -1,0 +1,34 @@
+<?xml version="1.0"?><list>
+  <MVC.model.BuyingRequestModel>
+    <idRquest>2</idRquest>
+    <medName>roacutane</medName>
+    <quantity>6</quantity>
+    <clientName>Anca Matei</clientName>
+    <clientAddress>Bucegi 17</clientAddress>
+    <clientMoney>85600</clientMoney>
+  </MVC.model.BuyingRequestModel>
+  <MVC.model.BuyingRequestModel>
+    <idRquest>3</idRquest>
+    <medName>neotigason</medName>
+    <quantity>15</quantity>
+    <clientName>Plesa Gabi</clientName>
+    <clientAddress>Bucegi 17</clientAddress>
+    <clientMoney>96600</clientMoney>
+  </MVC.model.BuyingRequestModel>
+  <MVC.model.BuyingRequestModel>
+    <idRquest>4</idRquest>
+    <medName>Acetaminophen</medName>
+    <quantity>23</quantity>
+    <clientName>Larisa Bratean</clientName>
+    <clientAddress>Bucegi 17</clientAddress>
+    <clientMoney>91600</clientMoney>
+  </MVC.model.BuyingRequestModel>
+  <MVC.model.BuyingRequestModel>
+    <idRquest>5</idRquest>
+    <medName>aspirin</medName>
+    <quantity>5</quantity>
+    <clientName>Bianca Floriana</clientName>
+    <clientAddress>Bucegi 17</clientAddress>
+    <clientMoney>98800</clientMoney>
+  </MVC.model.BuyingRequestModel>
+</list>

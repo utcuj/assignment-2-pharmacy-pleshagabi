@@ -1,0 +1,122 @@
+<?xml version="1.0"?><list>
+  <MVC.model.MedicationModel>
+    <id>1</id>
+    <name>aspirin</name>
+    <ingredients>bicar, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>bayer</manufacturer>
+    <quantity>976</quantity>
+    <price>500</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>2</id>
+    <name>neotigason</name>
+    <ingredients>bicar, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Merz Pharmaceuticals</manufacturer>
+    <quantity>100</quantity>
+    <price>1500</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>3</id>
+    <name>betadine</name>
+    <ingredients>omega, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Terapia Cluj-Napoca</manufacturer>
+    <quantity>5000</quantity>
+    <price>150</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>4</id>
+    <name>roacutane</name>
+    <ingredients>afla, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>bayer</manufacturer>
+    <quantity>300</quantity>
+    <price>890</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>5</id>
+    <name>vasdd</name>
+    <ingredients>albastru de voronet, meta beta, teta, peta</ingredients>
+    <manufacturer>Montreal Meds</manufacturer>
+    <quantity>1660</quantity>
+    <price>125</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>6</id>
+    <name>Acetaminophen</name>
+    <ingredients>Alprazolam, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Europharm</manufacturer>
+    <quantity>6000</quantity>
+    <price>100</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>7</id>
+    <name>Doxycycline</name>
+    <ingredients>bicar, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Merz Pharmaceuticals</manufacturer>
+    <quantity>890</quantity>
+    <price>550</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>8</id>
+    <name>Ibuprofen</name>
+    <ingredients>creatina, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Terapia Cluj-Napoca</manufacturer>
+    <quantity>5000</quantity>
+    <price>150</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>9</id>
+    <name>Xanax</name>
+    <ingredients>bicar, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Europharm</manufacturer>
+    <quantity>5500</quantity>
+    <price>55</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>10</id>
+    <name>Tramadol</name>
+    <ingredients>albastru de voronet, meta beta, teta, peta</ingredients>
+    <manufacturer>Geden Richter Romania</manufacturer>
+    <quantity>1250</quantity>
+    <price>250</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>11</id>
+    <name>Acetaminophen</name>
+    <ingredients>Alprazolam, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Europharm</manufacturer>
+    <quantity>0</quantity>
+    <price>100</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>12</id>
+    <name>Doxycycline</name>
+    <ingredients>bicar, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Merz Pharmaceuticals</manufacturer>
+    <quantity>0</quantity>
+    <price>550</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>13</id>
+    <name>Ibuprofen</name>
+    <ingredients>creatina, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Terapia Cluj-Napoca</manufacturer>
+    <quantity>0</quantity>
+    <price>150</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>14</id>
+    <name>Xanax</name>
+    <ingredients>bicar, beta alanina, bicarbonat, glutamina</ingredients>
+    <manufacturer>Europharm</manufacturer>
+    <quantity>0</quantity>
+    <price>55</price>
+  </MVC.model.MedicationModel>
+  <MVC.model.MedicationModel>
+    <id>15</id>
+    <name>Tramadol</name>
+    <ingredients>albastru de voronet, meta beta, teta, peta</ingredients>
+    <manufacturer>Geden Richter Romania</manufacturer>
+    <quantity>0</quantity>
+    <price>250</price>
+  </MVC.model.MedicationModel>
+</list>

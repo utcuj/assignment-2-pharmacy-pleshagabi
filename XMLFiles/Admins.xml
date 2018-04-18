@@ -1,0 +1,23 @@
+<?xml version="1.0"?><list>
+  <MVC.model.AdministratorModel>
+    <id>1</id>
+    <name>Plesa Gabi</name>
+    <age>22</age>
+    <username>plesha</username>
+    <password>plesha</password>
+  </MVC.model.AdministratorModel>
+  <MVC.model.AdministratorModel>
+    <id>2</id>
+    <name>Madalina Oprea</name>
+    <age>20</age>
+    <username>oprea</username>
+    <password>madalina</password>
+  </MVC.model.AdministratorModel>
+  <MVC.model.AdministratorModel>
+    <id>3</id>
+    <name>Andrei Muresan</name>
+    <age>23</age>
+    <username>andrei</username>
+    <password>andrei</password>
+  </MVC.model.AdministratorModel>
+</list>
